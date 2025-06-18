@@ -8,8 +8,8 @@
 
 ### 🔨 Languages and Tools:
 - **Languages**: Python, C++, Java, SQL, PHP
-- **Tools**: Git, VS Code, Jupyter Notebook, Kali Linux, MYSQL Workbench, Eclipse IDE
-- **Others**: AES, Triple DES, DES encryption, JSON
+- **Tools**: Git, VS Code, Cypress, Jupyter Notebook, Kali Linux, MYSQL Workbench, Eclipse IDE
+- **Others**: AES, Triple DES, JSON
 
 ### 📊 GitHub stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieladupusamezgaile&langs_count=8&theme=transparent)
