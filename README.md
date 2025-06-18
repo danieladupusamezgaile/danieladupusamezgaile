@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Daniela 👋
 
-<!--
-**danieladupusamezgaile/danieladupusamezgaile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧐 About Me
 
-Here are some ideas to get you started:
+- 🌱 Currently studying at Vidzeme University of Applied Sciences and working on my bachelor's thesis.
+- 💡 Passionate about exploring both server-side programming and developing clean, efficient code for software applications.
+- 📚 Always learning! Currently diving deeper into topics like encryption algorithms, APIs, and data protection.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔨 Languages and Tools:
+- **Languages**: Python, C++, Java, SQL, PHP
+- **Tools**: Git, VS Code, Jupyter Notebook, Kali Linux, MYSQL Workbench, Eclipse IDE
+- **Others**: AES, Triple DES, DES encryption, JSON
+
+### 📊 GitHub stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieladupusamezgaile&langs_count=8&theme=transparent)
+![Daniela's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieladupusamezgaile&theme=transparent&show_icons=true)
+
+### 📫 Contact Info
+- 📧 Email: [daniela.dupusamezgaile@gmail.com](mailto:daniela.dupusamezgaile@gmail.com)
+- LinkedIn: www.linkedin.com/in/daniela-dupusa-mezgaile
