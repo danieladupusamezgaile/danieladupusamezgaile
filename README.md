@@ -9,8 +9,8 @@
 
 ### 🔨 Languages and Tools:
 - **Languages**: Python, C++, Java, SQL, PHP
-- **Tools**: Docker, Git, Cypress, Jupyter Notebook, MYSQL Workbench, Eclipse IDE
-- **Others**: AES, Triple DES, JSON
+- **Tools**: Docker, Temporal, MinIO, FastAPI, Cypress, Jupyter Notebook   
+- **Others**: Git, AES, Triple DES, JSON, Software testing and automation
 
 ### 📊 GitHub stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieladupusamezgaile&langs_count=8&theme=transparent)
