@@ -13,7 +13,7 @@
 - **Others**: Git, AES, Triple DES, JSON, Software testing and automation
 
 ### 📊 GitHub stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieladupusamezgaile&langs_count=8&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieladupusamezgaile&exclude_repo=sabalancec-lv-testing&v=2&theme=transparent)
 ![Daniela's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieladupusamezgaile&theme=transparent&show_icons=true)
 
 ### 📫 Contact Info
