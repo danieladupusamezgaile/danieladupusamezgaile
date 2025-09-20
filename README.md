@@ -4,12 +4,12 @@
 
 - 🌱 Currently studying at Vidzeme University of Applied Sciences and working on my bachelor's thesis.
 - 💡 Passionate about exploring both server-side programming and developing clean, efficient code for software applications.
-- 📚 Always learning! Have been learning topics like encryption algorithms and data protection this year.
-- 📄 Currently diving deeper into Python backend programming, Docker and APIs.
+- 📚 Always learning! Have been learning topics like encryption algorithms, data protection, Python programming, Docker and APIs last two years.
+- 📄 Currently diving deeper into software testing - applying QA principles in practice, writing test cases and reporting bugs.
 
 ### 🔨 Languages and Tools:
 - **Languages**: Python, C++, Java, SQL, PHP
-- **Tools**: Docker, Temporal, MinIO, FastAPI, Cypress, Jupyter Notebook   
+- **Tools**: Docker, Temporal, MinIO, FastAPI, Cypress, Jupyter Notebook, Postman   
 - **Others**: Git, AES, Triple DES, JSON, Software testing and automation
 
 ### 📊 GitHub stats
